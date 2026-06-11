@@ -1,0 +1,20 @@
+{
+  "1456579706550747188": {
+    "logChannelId": "1511435792571171051",
+    "ticketChannelId": "1511435791362949212",
+    "staffRoleId": "1511425768071368774",
+    "ticketCategoryId": "1514523651981185044",
+    "consigliRoleId": "1511425768071368774",
+    "groqApiKey": "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",
+    "setupDone": true
+  },
+  "1510955037008990371": {
+    "logChannelId": "1510961854128721940",
+    "ticketChannelId": "1510961680891510794",
+    "staffRoleId": "1512819224429592738",
+    "ticketCategoryId": "1514526114813444187",
+    "consigliRoleId": "1512819224429592738",
+    "groqApiKey": "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",
+    "setupDone": true
+  }
+}

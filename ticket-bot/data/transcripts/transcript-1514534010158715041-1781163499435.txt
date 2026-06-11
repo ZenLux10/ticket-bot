@@ -1,0 +1,38 @@
+╔══════════════════════════════════════════╗
+║         TRASCRIZIONE TICKET              ║
+╚══════════════════════════════════════════╝
+
+📌 Canale  : #ticket-filippoberti112
+🆔 ID      : 1514534010158715041
+📅 Data    : 11/06/2026, 09:38:19
+📨 Messaggi: 5
+
+──────────────────────────────────────────────
+
+[11/06/2026, 09:37:27] LogixCore#6627 [BOT]
+  <@1387511832440471695> | <@&1512819224429592738>
+  [EMBED] ❓ Ticket — ❓ Domanda
+    Benvenuto <@1387511832440471695>!
+
+> Descrivi il tuo problema nel modo più dettagliato possibile.
+> Il nostro staff ti risponderà il prima possibile.
+
+📌 **Categoria:** ❓ Domanda
+🕐 **Aperto:** <t:178
+
+[11/06/2026, 09:37:32] LogixCore#6627 [BOT]
+    ✋ **<@1387511832440471695>** ha preso in carico questo ticket.
+
+[11/06/2026, 09:37:34] filippoberti112#0
+  Salve
+
+[11/06/2026, 09:37:44] filippoberti112#0
+  dio cane
+
+[11/06/2026, 09:38:16] LogixCore#6627 [BOT]
+  [EMBED] 🔒 Conferma Chiusura
+    Sei sicuro di voler chiudere questo ticket?
+Verrà generata una trascrizione.
+
+──────────────────────────────────────────────
+Fine trascrizione — 11/06/2026, 09:38:19
